@@ -92,54 +92,57 @@ Copiar código
 source database/Script_SeuStock_MySQL.sql;
 Compile e execute o projeto Java.
 
+---
+
 ## 👥 Colaboradores
 <div align="center">
-
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/PedroLima-07">
-        <img src="https://github.com/PedroLima-07.png?size=120" width="120px;" alt="Foto do integrante"/><br>
-        <sub><b>Pedro Lima</b></sub>
-      </a><br>
-      ⚙️ Lider do Projeto / Desenvolvedor do Banco de Dados
-    </td>
-    <td align="center">
-      <a href="https://github.com/danilobossolani">
-        <img src="https://github.com/danilobossolani.png?size=120" width="120px;" alt="Foto do integrante"/><br>
-        <sub><b>Danilo Bossolani</b></sub>
-      </a><br>
-      🎨 Front-End
-    </td>
-    <td align="center">
-      <a href="https://github.com/NathanDotAlves">
-        <img src="https://github.com/NathanDotAlves.png?size=120" width="120px;" alt="Foto do integrante"/><br>
-        <sub><b>Nathan da Silva</b></sub>
-      </a><br>
-      ⚙️ Back-end
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/USUARIO4">
-        <img src="https://github.com/USUARIO4.png?size=120" width="120px;" alt="Foto do integrante"/><br>
-        <sub><b>Pedro Augusto</b></sub>
-      </a><br>
-      🧩 Analista de Requisitos
-    </td>
-    <td align="center">
-      <a href="https://github.com/USUARIO5">
-        <img src="https://github.com/USUARIO5.png?size=120" width="120px;" alt="Foto do integrante"/><br>
-        <sub><b>Thiago Aires</b></sub>
-      </a><br>
-      📝 Documentador
-    </td>
-  </tr>
-</table>
+  <table>
+    <tr>
+      <td align="center" width="180px">
+        <a href="https://github.com/PedroLima-07">
+          <img src="https://github.com/PedroLima-07.png?size=200" width="120" height="120" style="object-fit: cover; border-radius: 50%;" alt="Foto do integrante"/><br>
+          <sub><b>Pedro Lima</b></sub>
+        </a><br>
+        ⚙️ Líder do Projeto / Desenvolvedor do Banco de Dados
+      </td>
+      <td align="center" width="180px">
+        <a href="https://github.com/danilobossolani">
+          <img src="https://github.com/danilobossolani.png?size=200" width="120" height="120" style="object-fit: cover; border-radius: 50%;" alt="Foto do integrante"/><br>
+          <sub><b>Danilo Bossolani</b></sub>
+        </a><br>
+        🎨 Front-End
+      </td>
+      <td align="center" width="180px">
+        <a href="https://github.com/NathanDotAlves">
+          <img src="https://github.com/NathanDotAlves.png?size=200" width="120" height="120" style="object-fit: cover; border-radius: 50%;" alt="Foto do integrante"/><br>
+          <sub><b>Nathan da Silva</b></sub>
+        </a><br>
+        ⚙️ Back-End
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="180px">
+        <a href="https://github.com/USUARIO4">
+          <img src="https://github.com/USUARIO4.png?size=200" width="120" height="120" style="object-fit: cover; border-radius: 50%;" alt="Foto do integrante"/><br>
+          <sub><b>Pedro Augusto</b></sub>
+        </a><br>
+        🧩 Analista de Requisitos
+      </td>
+      <td align="center" width="180px">
+        <a href="https://github.com/USUARIO5">
+          <img src="https://github.com/USUARIO5.png?size=200" width="120" height="120" style="object-fit: cover; border-radius: 50%;" alt="Foto do integrante"/><br>
+          <sub><b>Thiago Aires</b></sub>
+        </a><br>
+        📝 Documentador
+      </td>
+    </tr>
+  </table>
 </div>
 
-📈 Resultados Esperados
+
+---
+
+## 📈 Resultados Esperados
 Controle de estoque em tempo real.
 
 Redução de desperdícios e custos operacionais.
@@ -150,7 +153,10 @@ Apoio à tomada de decisão estratégica.
 
 Aumento da produtividade e eficiência.
 
-🧩 Estudos Futuros
+---
+
+
+## 🧩 Estudos Futuros
 Desenvolver uma interface web interativa (HTML + integração com o banco).
 
 Criar uma versão SaaS com hospedagem em nuvem.
@@ -159,7 +165,9 @@ Implementar novos relatórios e gráficos analíticos.
 
 Adicionar testes automatizados para garantir estabilidade.
 
-🏫 Informações Acadêmicas
+---
+
+## 🏫 Informações Acadêmicas
 📘 Instituição: Centro Universitário Facens
 🧑‍🏫 Professor Orientador: Eliney Sabino
 📚 Disciplina: UPX2 – Usina de Projetos Experimentais II
