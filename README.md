@@ -72,8 +72,6 @@ A documentação oficial do projeto (metodologia, cronograma, canvas, persona e 
 
 📄 [Modelo_Projeto_UPX_2.docx](./docs/Modelo_Projeto_UPX_2.docx)
 
-> Caso ainda não tenha adicionado o arquivo, crie a pasta `/docs/` no repositório e coloque o documento lá.
-
 ---
 
 ## 🚀 Como Executar o Projeto
@@ -83,7 +81,7 @@ A documentação oficial do projeto (metodologia, cronograma, canvas, persona e 
    git clone https://github.com/PedroLima-07/SeuStock.git
 Importe o projeto em sua IDE (VS Code, IntelliJ, Eclipse).
 
-Configure o banco de dados MySQL
+Configure o banco de dados MySQL:
 
 Crie um banco chamado seustock;
 
@@ -95,8 +93,8 @@ source database/Script_SeuStock_MySQL.sql;
 Compile e execute o projeto Java.
 
 ## 👥 Colaboradores
-
 <div align="center">
+
 
 <table>
   <tr>
@@ -139,9 +137,7 @@ Compile e execute o projeto Java.
     </td>
   </tr>
 </table>
-
 </div>
-
 
 📈 Resultados Esperados
 Controle de estoque em tempo real.
