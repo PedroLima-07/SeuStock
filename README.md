@@ -110,14 +110,14 @@ Compile e execute o projeto Java.
           <img src="https://github.com/danilobossolani.png?size=200" width="120" height="120" style="object-fit: cover; border-radius: 50%;" alt="Foto do integrante"/><br>
           <sub><b>Danilo Bossolani</b></sub>
         </a><br>
-        🎨 Front-End
+        🎨 Front-End                              
       </td>
       <td align="center" width="180px">
         <a href="https://github.com/NathanDotAlves">
           <img src="https://github.com/NathanDotAlves.png?size=200" width="120" height="120" style="object-fit: cover; border-radius: 50%;" alt="Foto do integrante"/><br>
           <sub><b>Nathan da Silva</b></sub>
         </a><br>
-        ⚙️ Back-End
+        ⚙️ Back-End                                   
       </td>
     </tr>
     <tr>
@@ -126,7 +126,7 @@ Compile e execute o projeto Java.
           <img src="https://github.com/USUARIO4.png?size=200" width="120" height="120" style="object-fit: cover; border-radius: 50%;" alt="Foto do integrante"/><br>
           <sub><b>Pedro Augusto</b></sub>
         </a><br>
-        🧩 Analista de Requisitos
+        🧩 Analista de Requisitos                               
       </td>
       <td align="center" width="180px">
         <a href="https://github.com/USUARIO5">
