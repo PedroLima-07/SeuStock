@@ -103,7 +103,7 @@ Compile e execute o projeto Java.
           <img src="https://github.com/PedroLima-07.png?size=200" width="120" height="120" style="object-fit: cover; border-radius: 50%;" alt="Foto do integrante"/><br>
           <sub><b>Pedro Lima</b></sub>
         </a><br>
-        ⚙️ Líder do Projeto / Desenvolvedor do Banco de Dados
+        ⚙️ Líder do Projeto / Dev DataBase
       </td>
       <td align="center" width="180px">
         <a href="https://github.com/danilobossolani">
