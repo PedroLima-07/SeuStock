@@ -4,9 +4,9 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class Conexao {
-    private static final String URL = "jdbc:mysql://localhost:3306/SeuStock?useTimezone=true&serverTimezone=UTC";
+    private static final String URL = "jdbc:mysql://localhost:3306/seustock?useTimezone=true&serverTimezone=UTC";
     private static final String USER = "root"; // ajuste
-    private static final String PASS = "senha"; // ajuste
+    private static final String PASS = "Pedro@123"; // ajuste
 
     static {
         try {
